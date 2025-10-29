@@ -7,21 +7,21 @@ Ele inclui tanto projetos de **e-commerce** quanto de **oficina**, contemplando 
 
 ## Estrutura do Repositório
 ```
-projeto_ecommerce/
-├── create_db_ecommerce.sql    # Script para criar o banco e tabelas do e-commerce
-├── eer_diagram_ecommerce.mwb  # Diagrama EER editável no MySQL Workbench
-|── eer_diagram_ecommerce.png  # Imagem do diagrama EER
-├── insert_data_ecommerce.sql  # Script para popular o banco com dados de exemplo
-└──  queries_ecommerce.sql      # Consultas SQL para análise e testes
-
-projeto_oficina/
-├── consultas_oficina.sql      # Consultas SQL para análise e testes
-├── criacao_bd_oficina.sql     # Script para criar o banco e tabelas da oficin
-├── diagrama_eer_oficina.mwb   # Diagrama EER editável no MySQL Workbench
-├── diagrama_eer_oficina.png   # Imagem do diagrama EER
-└── insercao_dados_oficina.sql # Script para popular o banco com dados de exemplo
-
-README.md
+projetos_mysql
+├── 01-projeto_ecommerce/
+|   ├── create_db_ecommerce.sql    # Script para criar o banco e tabelas do e-commerce
+|   ├── eer_diagram_ecommerce.mwb  # Diagrama EER editável no MySQL Workbench
+|   |── eer_diagram_ecommerce.png  # Imagem do diagrama EER
+|   ├── insert_data_ecommerce.sql  # Script para popular o banco com dados de exemplo
+|   └──  queries_ecommerce.sql      # Consultas SQL para análise e testes
+|
+|   02-projeto_oficina/
+|   ├── consultas_oficina.sql      # Consultas SQL para análise e testes
+|   ├── criacao_bd_oficina.sql     # Script para criar o banco e tabelas da oficin
+|   ├── diagrama_eer_oficina.mwb   # Diagrama EER editável no MySQL Workbench
+|   ├── diagrama_eer_oficina.png   # Imagem do diagrama EER
+|   └── insercao_dados_oficina.sql # Script para popular o banco com dados de exemplo
+└── README.md
 ```
 
 ---
