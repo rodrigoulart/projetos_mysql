@@ -48,3 +48,11 @@ projetos_mysql
 - Scripts para **criação do banco**, **inserção de dados** e **consultas avançadas** (joins, agregações, case statements).  
 - Diagrama EER completo, incluindo relações identificadoras e não-identificadoras, e uso de **ENUM para status**.
 
+- ---
+
+## Créditos
+
+Desafio proposto pela **[Digital Innovation One (DIO)](https://www.dio.me/)** em parceria com a **Klabin**.  
+Projeto desenvolvido por **Rodrigo Moraes**.
+
+
